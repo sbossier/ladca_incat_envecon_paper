@@ -1,0 +1,104 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environment folders
+# If you're using .venv or another directory for your virtual environments, ignore them here
+.venv/
+venv/
+ENV/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# PyCharm project files
+.idea/
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+*.cover
+*.py,cover
+.cache
+nosetests.xml
+coverage.xml
+*.spec
+
+# Logs
+*.log
+*.out
+*.err
+
+# Environment files
+.env
+.env.*
+*.env
+*.ini
+*.toml
+
+# Pyre type checker
+.pyre/
+
+# MyPy type checker
+.mypy_cache/
+
+# pytest cache
+.pytest_cache/
+
+# Jupyter Notebook config
+.jupyter/
+
+# Local SQLite databases
+*.sqlite3
+
+# Mac OS-specific files
+.DS_Store
+
+# Windows-specific files
+Thumbs.db
+*.bak
+
+# PyInstaller
+# Usually these files are written by pyinstaller to create self-contained executables
+*.manifest
+*.spec
+
+# Cython debug symbols
+cython_debug/
+
+# Ignore generated requirements files
+requirements-dev.txt
